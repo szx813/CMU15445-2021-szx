@@ -166,7 +166,7 @@ size_t LRUReplacer::Size() {
 
 ### 测试
 
-![image-20231206165444091](https://github.com/ZhaoxuanSun/CMU15445-2021-szx/blob/main/image/sample_test.jpg)
+![sample_test](https://github.com/ZhaoxuanSun/CMU15445-2021-szx/blob/main/image/sample_test.jpg)
 
 ## TASK 2 缓冲池管理器
 
