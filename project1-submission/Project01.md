@@ -166,7 +166,7 @@ size_t LRUReplacer::Size() {
 
 ### 测试
 
-![sample_test](https://github.com/ZhaoxuanSun/CMU15445-2021-szx/blob/main/image/sample_test.jpg)
+![p1](https://github.com/ZhaoxuanSun/CMU15445-2021-szx/blob/main/image/task01.png)
 
 ## TASK 2 缓冲池管理器
 
@@ -315,13 +315,13 @@ size_t LRUReplacer::Size() {
 
 #### Sample Test 过程分析
 
-![微信图片_20231206114625](C:\Users\11246\Desktop\微信图片_20231206114625.jpg)
+![p2](https://github.com/ZhaoxuanSun/CMU15445-2021-szx/blob/main/image/sample_test.jpg)
 
 #### Gradescope 测试案例
 
-![image-20231206214619698](C:\Users\11246\AppData\Roaming\Typora\typora-user-images\image-20231206214619698.png)
+![p3](https://github.com/ZhaoxuanSun/CMU15445-2021-szx/blob/main/image/task02-1.png)
 
-![image-20231206214629296](C:\Users\11246\AppData\Roaming\Typora\typora-user-images\image-20231206214629296.png)
+![p4](https://github.com/ZhaoxuanSun/CMU15445-2021-szx/blob/main/image/task02-2.png)
 
 ## TASK 3 并行缓冲池优化
 
