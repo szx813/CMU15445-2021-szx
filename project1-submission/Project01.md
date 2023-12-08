@@ -415,6 +415,6 @@ size_t LRUReplacer::Size() {
 
 ### GradeScope 测试
 
-![image-20231206214421685](C:\Users\11246\AppData\Roaming\Typora\typora-user-images\image-20231206214421685.png)
+![image-20231206214421685](https://github.com/ZhaoxuanSun/CMU15445-2021-szx/blob/main/image/task03-1.png)
 
-![image-20231206214438033](C:\Users\11246\AppData\Roaming\Typora\typora-user-images\image-20231206214438033.png)
+![image-20231206214438033](https://github.com/ZhaoxuanSun/CMU15445-2021-szx/blob/main/image/task03-2.png)
